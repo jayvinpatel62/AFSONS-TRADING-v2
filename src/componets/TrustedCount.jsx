@@ -10,8 +10,7 @@ const TrustedCount = () => {
             <h2 className="text-3xl font-bold text-gray-900 sm:text-4xl">Trusted by eCommerce Businesses</h2>
 
             <p className="mt-4 text-gray-500 sm:text-xl">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione dolores laborum labore
-            provident impedit esse recusandae facere libero harum sequi.
+            AFSONS FZCO provides a wide range of high-quality mobile phones and electronics at competitive prices, helping online retailers expand their product offerings and grow their businesses globally.
             </p>
         </div>
 

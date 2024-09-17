@@ -1,15 +1,16 @@
 
+import { Container } from '@mui/material';
 import React from 'react'
 import { FaPinterestP, FaFacebookF, FaTwitter, FaInstagram } from "react-icons/fa";
 
 const Footer = () => {
     return (
         <>
-            <div className=' bg-[#F6D700]'>
-                <div className='container'>
+            <div className=' bg-[#f8f8f8]'>
+                <Container>
                     <div className='footer h-[100px] flex justify-between'>
                         <div className='left'>
-                            <p className=' text-[#777]'>© 2021 XpeedStudio All Rights Reserved</p>
+                            <p className=' text-[#777]'>© 2024 AFSONS FZCO. All Rights Reserved</p>
                         </div>
                         <div className='right'>
 
@@ -33,7 +34,7 @@ const Footer = () => {
                             </div>
                         </div>
                     </div>
-                </div>
+                </Container>
             </div>
         </>
     )

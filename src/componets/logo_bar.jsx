@@ -9,11 +9,11 @@ const Main_Navbar = () => {
         <>
          <header className="bg-white">
                 <Container>
-                <div className="mx-auto max-w-screen-xl px-4 sm:px-6 lg:px-8">
+                <div className="mx-auto max-w-screen-xl">
                     <div className="flex h-16 items-center justify-between">
                     <div className="md:flex md:items-center md:gap-12">
                         <a className="block text-slate-900" href="#">
-                            <h2 className='font-bold text-2xl'>AFSONS <span className='text-yellow-500'>FZE</span></h2>
+                            <h2 className='font-bold text-2xl'>AFSONS <span className='text-yellow-500'>FZCO</span></h2>
                         </a>
                     </div>
 
